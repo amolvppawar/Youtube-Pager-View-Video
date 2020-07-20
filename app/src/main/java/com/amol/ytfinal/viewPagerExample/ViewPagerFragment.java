@@ -50,7 +50,7 @@ public class ViewPagerFragment extends Fragment {
 
 
 
-    // pause when fragment goes offscreen
+    // pause when fragment goes
     @Override
     public void setMenuVisibility(final boolean visible) {
         super.setMenuVisibility(visible);
